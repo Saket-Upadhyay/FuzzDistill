@@ -8,8 +8,8 @@ Fuzz testing is a fundamental technique employed to identify vulnerabilities wit
 | Module       | Description                                                        |
 |----------------------|--------------------------------------------------------------------|
 | [FuzzDistillCC](https://github.com/Saket-Upadhyay/FuzzDistillCC)  | Compiler back-end for feature extraction                                |
-| FuzzDistillML    | Model training component                                  |
-| FuzzDistillWeb    | Prediction front-end                                 |
+| [FuzzDistillML](https://github.com/Saket-Upadhyay/FuzzDistillML)    | Model training component                                  |
+| [FuzzDistillWeb](https://github.com/Saket-Upadhyay/FuzzDistillWeb)    | Prediction front-end                                 |
 
 ## Paper
 More like a report (not peer-reviewed).
