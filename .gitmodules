@@ -1,0 +1,9 @@
+[submodule "FuzzDistillCC"]
+	path = FuzzDistillCC
+	url = https://github.com/Saket-Upadhyay/FuzzDistillCC
+[submodule "FuzzDistillML"]
+	path = FuzzDistillML
+	url = https://github.com/Saket-Upadhyay/FuzzDistillML
+[submodule "FuzzDistillWeb"]
+	path = FuzzDistillWeb
+	url = https://github.com/Saket-Upadhyay/FuzzDistillWeb
