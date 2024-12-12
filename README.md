@@ -13,19 +13,37 @@ demonstrate the efficacy of my approach through experiments conducted on real-wo
 
 ## Modules
 
-| Module                                                           | Description                              | GitHub                                                                                  |
-|------------------------------------------------------------------|------------------------------------------|-----------------------------------------------------------------------------------------|
-| **FuzzDistillCC**                                                | Compiler back-end for feature extraction | [github/Saket-Upadhyay/FuzzDistillCC](https://github.com/Saket-Upadhyay/FuzzDistillCC)  |
-| **FuzzDistillML**                                                | Model training component                 | [github/Saket-Upadhyay/FuzzDistillML](https://github.com/Saket-Upadhyay/FuzzDistillML) |
-| **FuzzDistillWeb** | Prediction front-end                     | [github/Saket-Upadhyay/FuzzDistillWeb](https://github.com/Saket-Upadhyay/FuzzDistillWeb)                                    |
+| Module             | Description                              | GitHub                                                                                   | License |
+|--------------------|------------------------------------------|------------------------------------------------------------------------------------------|---------|
+| **FuzzDistillCC**  | Compiler back-end for feature extraction | [github/Saket-Upadhyay/FuzzDistillCC](https://github.com/Saket-Upadhyay/FuzzDistillCC)   | CC BY   |
+| **FuzzDistillML**  | Model training component                 | [github/Saket-Upadhyay/FuzzDistillML](https://github.com/Saket-Upadhyay/FuzzDistillML)   | CC BY   |
+| **FuzzDistillWeb** | Prediction front-end                     | [github/Saket-Upadhyay/FuzzDistillWeb](https://github.com/Saket-Upadhyay/FuzzDistillWeb) | MIT     | 
 
 ## Paper
 
 | What         | Where                                                                      |
 |--------------|----------------------------------------------------------------------------|
-| PDF          | TBD                                                                        |
-| arXiv        | TBD                                                                        |
+| PDF          | [arXiv/pdf/2412.08100](https://arxiv.org/pdf/2412.08100)                   |
+| arXiv        | [arXiv/2412.0810](https://arxiv.org/abs/2412.08100)                        |
 | Presentation | [Presentation.pdf](docs/Upadhyay_Saket_Fuzzpiler_project_presentation.pdf) |
+
+---
+
+## Cite
+
+If you utilize this project or any portion thereof, please ensure proper citation of the following work:
+
+```text
+@misc{upadhyay2024fuzzdistillintelligentfuzzingtarget,
+      title={FuzzDistill: Intelligent Fuzzing Target Selection using Compile-Time Analysis and Machine Learning}, 
+      author={Saket Upadhyay},
+      year={2024},
+      eprint={2412.08100},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2412.08100}, 
+}
+```
 
 ---
 
